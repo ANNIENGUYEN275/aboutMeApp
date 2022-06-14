@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+    
         fact1.isHidden = true
         fact2.isHidden = true
         fact3.isHidden = true
